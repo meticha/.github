@@ -3,9 +3,9 @@
 ![A colorful illustration of developers and creators building together across different platforms and spaces, inspired by collaboration, code, and creativity.](https://github.com/user-attachments/assets/1e63da88-5f8d-4918-a649-7e090b3a663c)
 
 
-We're **Meticha** — a small product-led tech team building with intention, curiosity, and a love for open source.
+We're **Meticha**, A small product-led tech team building with intention, curiosity, and a love for open source.
 
-We're not chasing trends. We're building the tools *we* wish existed — and open-sourcing them so others can build better, faster, and cleaner too.
+We're not chasing trends. We're building the tools *we* wish existed, and open-sourcing them so others can build better, faster, and cleaner too.
 
 ---
 
@@ -18,13 +18,11 @@ You’ll find us tinkering with a mix of tools, experiments, and design patterns
 - 🧱 [**jetpack-compose-design-patterns**](https://github.com/meticha/jetpack-compose-design-patterns): A living catalog of Jetpack Compose design patterns.
 - 🌌 [**gravity-launch-page-template**](https://github.com/meticha/gravity-launch-page-template): A web landing page with playful physics-based animations powered by Matter.js + Framer Motion.
 
-We're still in early days. Expect some of these to be in **alpha** or **just for fun** — but we’re serious about craft, clean code, and clarity.
-
 ---
 
 ### 🍃 Why open source?
 
-Because good ideas shouldn’t live in silos.  
+Because good ideas shouldn’t live in isolation.  
 Because we grew up learning from docs, Stack Overflow, and public repos.  
 Because this is how we give back.
 
@@ -34,7 +32,7 @@ Every contribution, star, comment, or fork reminds us: we’re part of something
 
 ### 🔭 What’s next?
 
-We’re heads-down building, but we plan to open source more internal tools — especially the ones that save us time, spark clarity, or make engineers smile.
+We’re heads-down building, but we plan to open-source more internal tools, especially the ones that save us time, spark clarity, or make engineers smile.
 
 And yep, we’d love your feedback, your pull requests, or even just your curiosity. Come build with us.
 
