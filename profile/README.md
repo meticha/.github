@@ -1,8 +1,5 @@
 ## Hey, this is us 👋
 
-![A colorful illustration of developers and creators building together across different platforms and spaces, inspired by collaboration, code, and creativity.](https://github.com/user-attachments/assets/1e63da88-5f8d-4918-a649-7e090b3a663c)
-
-
 We're **Meticha**, A small product-led tech team building with intention, curiosity, and a love for open source.
 
 We're not chasing trends. We're building the tools *we* wish existed, and open-sourcing them so others can build better, faster, and cleaner too.
