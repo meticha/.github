@@ -11,6 +11,7 @@ We're not chasing trends. We're building the tools *we* wish existed, and open-s
 You’ll find us tinkering with a mix of tools, experiments, and design patterns across Android and web. Some of our ongoing and early-stage creations:
 
 - 🧭 [**triggerx**](https://github.com/meticha/triggerx): A modular trigger-based alarm framework for observability in Android apps.
+- 🎨 [**material-3-expressive-catalog**](https://github.com/meticha/material-3-expressive-catalog): Expressive Material 3 UI components catalog built with Jetpack Compose for Android developers.
 - 🔐 [**permissions-compose**](https://github.com/meticha/permissions-compose): Dead-simple runtime permission handling with Jetpack Compose.
 - 🧱 [**jetpack-compose-design-patterns**](https://github.com/meticha/jetpack-compose-design-patterns): A living catalog of Jetpack Compose design patterns.
 - 🌌 [**gravity-launch-page-template**](https://github.com/meticha/gravity-launch-page-template): A web landing page with playful physics-based animations powered by Matter.js + Framer Motion.
